@@ -1,6 +1,12 @@
 {
     "name": "magefan/module-loginascustomer",
     "description": "N/A",
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://repo.magento.com/"
+        }
+    ],
     "require": {
         "php": "~5.5.0|~5.6.0|~7.0.0",
         "magento/module-customer": "100.0.*",
