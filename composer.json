@@ -17,5 +17,13 @@
         "psr-4": {
             "Magefan\\LoginAsCustomer\\": ""
         }
+    },
+    "extra": {
+        "map": [
+            [
+                "*",
+                "Magefan/LoginAsCustomer"
+            ]
+        ]
     }
 }
